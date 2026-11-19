@@ -225,3 +225,4 @@ Catatan aktivitas manual. File ini di-append oleh main.py.
 [2026-11-19 20:34:09] aktivitas #1: membersihkan folder proyek (catatan 3839)
 [2026-11-19 20:34:09] aktivitas #2: membersihkan folder proyek (catatan 9525)
 [2026-11-19 20:34:09] aktivitas #3: membersihkan folder proyek (catatan 9434)
+[2026-11-19 20:34:09] aktivitas #4: membaca dokumentasi teknis (catatan 8957)
